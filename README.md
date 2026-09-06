@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=https://github.com/gpuwangge&style=flat-square)
+![](https://komarev.com/ghpvc/?username=gpuwangge&style=flat-square)
 
 <!--
 **gpuwangge/gpuwangge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
