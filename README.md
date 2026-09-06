@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=gpuwangge&style=flat-square)
 
+![GitHub Visitor](https://github-visitor-counter-tau.vercel.app/api?username=gpuwangge)
+
 <!--
 **gpuwangge/gpuwangge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
