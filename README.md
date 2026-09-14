@@ -1,3 +1,7 @@
+<p float="left">
+  <img src="https://github.com/gpuwangge/gpuwangge/blob/main/gpuwangge.png" alt="alt text">  
+</p>  
+
 ![](https://komarev.com/ghpvc/?username=gpuwangge&style=flat-square)
 
 ![GitHub Visitor](https://github-visitor-counter-tau.vercel.app/api?username=gpuwangge)
